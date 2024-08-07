@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emotion Slider Animation App</string>
+    <string name="tell_us_your_experience">Tell us your experience</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="send_rating">Send Rating</string>
+    <string name="content_description_iv_ic">Minimalistic faces with a cool design, each expressing a different emotion</string>
+</resources>
